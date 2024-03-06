@@ -1,4 +1,4 @@
-import icons from '../../../dist/icons.21bad73c.svg';
+import icons from '../../img/icons.svg';
 import Fraction from 'fractional';
 import View from './view';
 
