@@ -4,7 +4,7 @@ import icons from '../../../dist/icons.21bad73c.svg';
 class PaginationView extends View {
   _parentElement = document.querySelector('.pagination');
   _generateMarkup() {
-    console.log("total Pages--", this._data.totalPage);
+    //console.log("total Pages--", this._data.totalPage);
     const currentPage = this._data.page;
     const totalPage = this._data.totalPage;
     //console.log(totalPage);
